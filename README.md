@@ -1,7 +1,7 @@
 # Introduction to GitHub
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
+This is my first GitHub exercise 🚀
 Hey abdullahazb277-stack!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
